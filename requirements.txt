@@ -1,0 +1,6 @@
+mlflow
+pandas
+boto3
+requests
+flask-cors
+textblob

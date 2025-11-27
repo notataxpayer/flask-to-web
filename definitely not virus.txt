@@ -1,0 +1,276 @@
+{
+  "topics": [
+    {
+      "count": 1797,
+      "sample_docs": [
+        "Investasi Indonesia Menguat, Pemerintah dan AS Matangkan Kemitraan Strategis untuk Pertumbuhan Ekonomi Berita Selengkapnya : https://t.co/R3zLuqr3Mh Berita Telegram : https://t.co/d5IXb2omx5 Senin apel pagi indonesia cerdas https://t.co/PKCOKhi9zV",
+        "@kcamataKU @R_ardiansyah5 @drupadawan 31 pemerintah",
+        "@Ashhyou4re pemerintah?"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 0,
+      "topic_name": "0_pemerintah_dan_co_https co"
+    },
+    {
+      "count": 23,
+      "sample_docs": [
+        "Penguatan ini menegaskan pentingnya keseragaman tata kelola PPNS di seluruh instansi pemerintah ð\u009f\u008c\u008d Kanwil Kemenkum NTT #KementerianHukum #LayananHukumMakinMudah #KanwilKemenkumNTT #SetahunBerdampak #TransformasiHukum #HukumUntukSemua #SilvesterSiliLaba",
+        "Sinergi kegiatan ini meningkatkan ketertiban tata kelola hukum di seluruh instansi pemerintah ð\u009f¤\u009d Kanwil Kemenkum NTT #KementerianHukum #LayananHukumMakinMudah #KanwilKemenkumNTT #SetahunBerdampak #TransformasiHukum #HukumUntukSemua #SilvesterSiliLaba",
+        "Sinergi penyamaan persepsi memperkuat kualitas pembinaan PPNS di seluruh instansi pemerintah ð\u009f¤\u009d Kanwil Kemenkum NTT #KementerianHukum #LayananHukumMakinMudah #KanwilKemenkumNTT #SetahunBerdampak #TransformasiHukum #HukumUntukSemua #SilvesterSiliLaba"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 1,
+      "topic_name": "1_kanwil_kementerianhukum_layananhukummakinmudah_kanwil kemenkum"
+    },
+    {
+      "count": 8,
+      "sample_docs": [
+        "pemerintah asu wong sugeh asu koruptor asu. ngerak o nok neroko ler peler, utekmu do bukaken, matamu do melek o",
+        "Sukses? Aku gak ngerti menungso seng siji iki uteke keri neng wetenge mbok e opo piye co. Even after hundreds of kids were poisoned, he still thinks his program was successful? Nganti kesel aku ngomentari klakuan pemerintah seng aduh, guoblok gak ketulung. Gws poll.",
+        "@merapi_uncover Roto\" petugas parkir neng malioboro kui wong bundet/ruwet koyone.. Petugas parkir daerah wisata og ra ndwe jiwa hospitality/ramah tamah blas. Adab e wes ra ono, yang menjadi citra buruk di Jogja. Pemerintah harusnya bersikap tegas untuk menindak lahan parkir tidak resmi."
+      ],
+      "sentiment": "negative",
+      "sentiment_distribution": {
+        "negative": 2,
+        "neutral": 0,
+        "positive": 1
+      },
+      "sentiment_score": 0.209,
+      "topic": 2,
+      "topic_name": "2_asu_parkir_sing_seng"
+    },
+    {
+      "count": 8,
+      "sample_docs": [
+        "Negara sekular hanya menguntungkan kapitalis, pemerintah dan orang besar yang pandai putar belit undang undang. Aku pun tak berapa gemar. Tapi bila tengok ramai penunggang dan penghisap candu agama, biar jelah negara ni kekal sekular dari rosak terus sebab fahaman pelampau agama",
+        "Bersyak wasangka kepada autoriti agama lebih banyak memberi mudarat kepada diri berbanding manfaat. Autoriti agama adalah termasuk pemerintah yang kita wajib hormati, itulah ajaran al-Quran. Hormat tak bermaksud tak boleh kritik, tapi perlu mengikut landasan ilmu.",
+        "@SyafiKerol @The_X_Guy Dalam Islam tiada paksaan ni hanya merujuk kepada tiada paksaan buat orang bukan Islam untuk memeluk agama Islam kerana kebenaran sudah terang lagi bersuluh. Namun bagi Muslim, wajib patuh syariat dan menjadi tugas pemerintah untuk memastikan umat Islam mematuhi syariat Islam."
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 3,
+      "topic_name": "3_agama_tak_islam_ni"
+    },
+    {
+      "count": 8,
+      "sample_docs": [
+        "@flexyingg Untuk tata cara penghitungannya, Kakak dapat merujuk pada lampiran PMK Nomor 72 Tahun 2025 ya, Kak. Terkait pelaporan, pemberi kerja wajib melaporkan pemanfaatan insentif Pajak Penghasilan Pasal 21 ditanggung pemerintah untuk setiap Masa Pajak. (4/5)",
+        "@kyatsueye Hai, Kak. Untuk pembuatan bupot PPh Pasal 21/26 bagi pegawai tetap yang menerima/memperoleh penghasilan dengan PPh ditanggung pemerintah dan tidak ditanggung pemerintah, pemotong pph pasal 21/26 menghitung pemotongan untuk masing -masing penghasilan secara terpisah. (1/4)",
+        "@flexyingg Pelaporan pemanfaatan insentif Pajak Penghasilan Pasal 21 ditanggung pemerintah dilakukan melalui penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Pasal 21/26 ya, Kak. (5/5) Tks*Kuya"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 4,
+      "topic_name": "4_21_pasal_ditanggung pemerintah_ditanggung"
+    },
+    {
+      "count": 7,
+      "sample_docs": [
+        "Paham radikal online? No thanks! Terima kasih pemerintah dan kampus yang sigap!",
+        "Kita dukung langkah pemerintah menangkal radikal online!",
+        "Jangan biarkan paham radikal merayap lewat digital mari dukung langkah pemerintah dan kampus!"
+      ],
+      "sentiment": "positive",
+      "sentiment_distribution": {
+        "negative": 1,
+        "neutral": 0,
+        "positive": 2
+      },
+      "sentiment_score": 0.021,
+      "topic": 5,
+      "topic_name": "5_radikalisasi_online_radikal_kampus"
+    },
+    {
+      "count": 5,
+      "sample_docs": [
+        "Transformasi sektor pertanian kerasa di mana-mana #SoehartoBerjasa",
+        "Ekosistem pertanian dibangun jadi lebih sustain #SoehartoBerjasa",
+        "Ekosistem pertanian ke-build lebih kuat dan sustainable #SoehartoBerjasa"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 6,
+      "topic_name": "6_soehartoberjasa_pertanian_ekosistem_sektor"
+    },
+    {
+      "count": 4,
+      "sample_docs": [
+        "Pemerintah hadirkan Dana Indonesiana untuk bantu pelestarian bahasa daerah dan seni tradisional yang mulai punah.",
+        "Pemerintah hadirkan Dana Indonesiana, solusi jaga warisan budaya.",
+        "\"Pemerintah hadirkan Dana Indonesiana, solusi jaga warisan budaya.\","
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 7,
+      "topic_name": "7_hadirkan_dana indonesiana_indonesiana_budaya"
+    },
+    {
+      "count": 4,
+      "sample_docs": [
+        "@lookatdaisy Permisi kak aku ada beberapa book pemasaran/pemasaran pertanian. Detail bisa dm/wa fee mulai 5k",
+        "ada yang punya shp jenis tanah kementerian pertanian ga yaa/?",
+        "ada yang jual ebook buku terkait pemasaran or pemasaran pertanian ngga yaa? #zonauang #ebookpdf"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 8,
+      "topic_name": "8_ada yang_yaa_pertanian_or"
+    },
+    {
+      "count": 4,
+      "sample_docs": [
+        "@SinarCahaya84 @Areanesia24 Bahan dasar Bobibos adalah jerami, terutama jerami padi sebagai limbah pertanian. Ini berasal dari tanaman padi (Oryza sativa) yang umum di Indonesia, diolah melalui fermentasi menjadi biofuel.",
+        "Bobibos merupakan bahan bakar nabati hasil olahan limbah pertanian seperti jerami yang diproses melalui lima tahap hingga menghasilkan bahan bakar beroktan tinggi, mencapai RON 98,1. Produk ini mampu menghasilkan pembakaran yang lebih bersih dan efisien dibandingkan BBM fosil. https://t.co/rFEvsh56ir",
+        "@bg_mush @sharpandshark Bobibos adalah BBM nabati dari jerami padi dan limbah pertanian. Kandungannya: bahan organik jerami yang difermentasi dan dimurnikan jadi cairan beroktan tinggi (RON 98) dengan kadar oksigen tinggi. Diklaim ramah lingkungan, tapi perlu uji resmi lebih lanjut."
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 2,
+        "positive": 1
+      },
+      "sentiment_score": 0.009,
+      "topic": 9,
+      "topic_name": "9_limbah_padi_bahan_bobibos"
+    },
+    {
+      "count": 4,
+      "sample_docs": [
+        "@mymyzaa Alat berat pertanian keren yah",
+        "@iraseorita alat pertanian sekarang makin canggih aja ya",
+        "@iraseorita Jadi cepet kan kalau gini, sekarang tuh alat pertanian udah canggih banget"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 2,
+        "positive": 1
+      },
+      "sentiment_score": 0.067,
+      "topic": 10,
+      "topic_name": "10_alat_canggih_pertanian_alat pertanian"
+    },
+    {
+      "count": 3,
+      "sample_docs": [
+        "Innalillahi wainnailaihi raajiun. Pemerintah harus lebih peduli kepada kasus seperti ini, jgn terjadi pembiaran. ð\u009f\u0098\u0093",
+        "@kumparan Innalillahi wa inna ilaihi rojiun,, Kl sekolah ga bertindak u/ ngebuang \"sampah\" yg ada di mereka, tu sekolah layak ditutup. Dan kl pemerintah ga tegas u/ bikin jera kasus bully, pemerintah pun sama s****hnya.. ð\u009f\u0091¿",
+        "@kumparan Innalilahi wa innailaihi rojiun yaa Allah bullying lagi ada apa dgn mental anak2 muda skrg ini, pemerintah, Depdikbud harus sangat2 serius menangani ini, pendidikan moral & keimanan harus digenjot habis2 an, pihak sekolah juga hrs uper ketat, hrs dibuat UU baru tanpa liat usia !!"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": -0.017,
+      "topic": 11,
+      "topic_name": "11_innalillahi_kumparan_wa_sekolah"
+    },
+    {
+      "count": 3,
+      "sample_docs": [
+        "Pemerintah AS sangat sulit untuk di intervensi",
+        "Tidak bisa diintervensi itu yang langka saat ini, terutama oleh pemerintah.",
+        "Hal yang paling memuakkan adalah ketika anda bekerja sama dengan pemerintah"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 1,
+        "neutral": 2,
+        "positive": 0
+      },
+      "sentiment_score": -0.048,
+      "topic": 12,
+      "topic_name": "12_ini terutama_sulit untuk_pemerintah hal_memuakkan"
+    },
+    {
+      "count": 3,
+      "sample_docs": [
+        "@aventurinesyg syamsul fumiko ayam sarjana fakultas pertanian universitas mulawarman generasi emas",
+        "@mutanzzzz @tempodotco Andi Amran Sulaiman (Mentan) lulus dari Universitas Hasanuddin, Makassar. Ia meraih gelar sarjana (1993), magister (2003), dan doktor (2012) di bidang pertanian dari Unhas.",
+        "@SUARAKRISTEN1 @KangManto123 Benar, Yasika Aulia Ramadhani, putri Yasir Machmud--Wakil Ketua II DPRD Sulsel dari Fraksi Gerindra--mengelola 41 dapur Makan Bergizi Gratis (MBG) di Sulawesi Selatan. Program ini bagian inisiatif pemerintah daerah untuk nutrisi anak, meski menuai sorotan publik terkait"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 13,
+      "topic_name": "13_sarjana_universitas_universitas hasanuddin_ini bagian"
+    },
+    {
+      "count": 3,
+      "sample_docs": [
+        "Menteri Pertanian dan Keterjaminan Makanan (KPKM) Kerjasama ini memberi manfaat besar kepada ribuan pengusaha dan pekerja industri. Malaysia dan China juga sedang berbincang untuk membuka lebih banyak laluan eksport termasuk produk akuatik, unggas serta makanan haiwan.",
+        "Akses SBW ke China Kekal ð\u009f\u0090¦ð\u009f\u008c\u008f Menteri Pertanian dan Keterjaminan Makanan, Datuk Seri Mohamad Sabu, menandatangani protokol baharu bersama Menteri GACC China, Sun Meijun, bagi memastikan eksport sarang burung walet (SBW) Malaysia terus memasuki pasaran China. Protokol ini https://t.co/9dUmISoUwU",
+        "Turut membanggakan apabila Malaysia baru memeterai Protokol Baharu Eksport Sarang Burung Walet ke China, memastikan akses pasaran terbesar negara terus terbuka dan kukuh. Selain menjadi langkah penting yang mengukuhkan lagi hubungan perdagangan pertanian antara kedua-dua negara"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 3,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 14,
+      "topic_name": "14_china_protokol_malaysia_makanan"
+    },
+    {
+      "count": 2,
+      "sample_docs": [
+        "Melihat \"K-Hiking\" yang telah menjadi kata kunci baru pariwisata Hallyu, pemerintah daerah juga bergerak cepat menanggapinya. Dalam rapat Komite Kebudayaan, Pariwisata, dan Olahraga Majelis Provinsi Jeju pada tanggal 21, Anggota DPR Kang Cheolnam menyarankan agar tren K-Naik",
+        "@BangKuu @DefiWimar Pembukaan kembali pemerintah AS dijadwalkan pada Senin pagi waktu setempat, biasanya dimulai jam kerja standar pukul 9:00 WIB Eastern Time (ET). Waktu Indonesia Barat (WIB, UTC+7) 12 jam lebih cepat dari ET (UTC-5), sehingga setara pukul 21:00 WIB hari Senin. Prosesnya bertahap"
+      ],
+      "sentiment": "neutral",
+      "sentiment_distribution": {
+        "negative": 0,
+        "neutral": 2,
+        "positive": 0
+      },
+      "sentiment_score": 0.0,
+      "topic": 15,
+      "topic_name": "15_wib_et_pukul_00 wib"
+    }
+  ],
+  "total_topics": 16
+}
